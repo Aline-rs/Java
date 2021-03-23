@@ -23,5 +23,3 @@ public class AreaLosango {
        System.out.println ("O valor da área do losango é: " + area);
                
     }
-    
-}
