@@ -1,0 +1,22 @@
+package exerciciostestes;
+import java.util.Scanner;
+
+public class EXERCICIOSTESTES {
+
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner( System.in );
+        double valor, gorjeta; 
+        System.out.println("O valor dos gastos no restaurante foi de: ");
+        valor = input.nextDouble();
+        
+        gorjeta = (valor*0.10);
+        
+        System.out.println("O valor da gorjeta é: " + gorjeta);
+        {
+            
+        }
+ 
+    }
+    
+}
