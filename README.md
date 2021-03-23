@@ -1,2 +1,7 @@
 # Java
-O objetivo desse repositório é documentar minha evolução na linguagem Java através de exercicios/projetos.
+
+🎯 The purpose of this repository is to document my evolution in the Java language through exercises / projects.
+
+# System Used
+
+🚀 NetBeans IDE 8.2
